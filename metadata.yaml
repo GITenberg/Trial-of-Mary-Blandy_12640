@@ -1,0 +1,27 @@
+_repo: Trial-of-Mary-Blandy_12640
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Roughead, William
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '4503'
+    url: http://www.gutenberg.org/2009/agents/4503
+    wikipedia: http://en.wikipedia.org/wiki/William_Roughead
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Poisoning) -- Great Britain'
+- !lcsh 'Blandy, Mary, 1720-1752 -- Trials, litigation, etc.'
+- !lcc 'KD'
+- !lcsh 'Trials (Murder) -- Great Britain'
+- GITenberg
+title: Trial of Mary Blandy
+url: http://www.gutenberg.org/ebooks/12640
